@@ -78,8 +78,8 @@ Facebook-SDK Setup
 
 <h4>Zurückgestelltes Deep Linking mit App-Links</h4>
 
-<p>Das Facebook-SDK für iOS und Android umfasst das Produkt <a href="/docs/applinks">App-Links</a>. Damit kannst du das zurückgestellte Deep Linking in deiner App unterstützen. Füge deiner App zusätzlich zur Deep Link-Implementierung einfach den folgenden Code hinzu, um zurückgestellte Deep Links zu bearbeiten:</p><code-tabs>
-<code-tab tab="iossdk">
+<p>Das Facebook-SDK für iOS und Android umfasst das Produkt <a href="/docs/applinks">App-Links</a>. Damit kannst du das zurückgestellte Deep Linking in deiner App unterstützen. Füge deiner App zusätzlich zur Deep Link-Implementierung einfach den folgenden Code hinzu, um zurückgestellte Deep Links zu bearbeiten:</p> 
+<code tab="iossdk">
 <![CDATA[ 
 // Füge Bolts.framework zu deinem Projekt hinzu (Teil des FB-SDK)
 #import <Bolts/Bolts.h> 
@@ -99,9 +99,9 @@ Facebook-SDK Setup
   return YES;
 }
 ]]> 
-</code-tab> 
+</code> 
 
-<code-tab tab="androidsdk"> 
+<code tab="androidsdk"> 
 AppLinkData.fetchDeferredAppLinkData(this, 
   new AppLinkData.CompletionHandler() {
      @Override
@@ -111,9 +111,10 @@ AppLinkData.fetchDeferredAppLinkData(this,
  }
 );
 
-</code-tab>
+</code>
 
-</code-tabs><hr/><p><strong>Klassenreferenz:</strong> iOS &gt; <a href="/docs/reference/ios/current/class/FBSDKAppLinkUtility#fetchDeferredAppLink">FBSDKAppLinkUtility</a> | Android &gt; <a href="/docs/reference/android/current/class/AppLinkData/">AppLinkData</a></p>
+
+<hr/><p><strong>Klassenreferenz:</strong> iOS &gt; <a href="/docs/reference/ios/current/class/FBSDKAppLinkUtility#fetchDeferredAppLink">FBSDKAppLinkUtility</a> | Android &gt; <a href="/docs/reference/android/current/class/AppLinkData/">AppLinkData</a></p>
 
 <h3 id="verify">5. Deep Link Setup überprüfen</h3>
 
