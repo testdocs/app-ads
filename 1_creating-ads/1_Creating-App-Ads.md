@@ -1,4 +1,4 @@
-# Creating App Ads
+ Creating App Ads
 Learn how to run ads for your mobile or desktop app in Facebook's news feed.
 
 __[Mobile App Ads](#mobile-ads)__  
@@ -39,7 +39,7 @@ A customizable call to action button (e.g., **Install Now**) is placed in the bo
 ####App Store {#mobile-ads-store}
 If people tap the call to action button, they will be redirect to your apps's Google Play or Apple App Store page (for install ads), or a specific part of your app (for engagement ads). 
 
-?[IMAGE](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/13065813_951534138299702_629518971_n.png) 
+![IMAGE](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xap1/t39.2365-6/13065813_951534138299702_629518971_n.png) 
 [Design Guidelines for Mobile App Ads](https://www.facebook.com/business/ads-guide/app-installs/mobile-app/) 
 
 ---
@@ -70,7 +70,7 @@ A Call-To-Action button is placed in the bottom right of the ad, either *"Play N
 
 After accepting the permission request people will be redirected to your app URL.
 
-?[IMAGE](https://scontent-iad3-1.xx.fbcdn.net/t39.2178-6/11891345_1181178455231619_1911494679_n.jpg) 
+![IMAGE](https://scontent-iad3-1.xx.fbcdn.net/t39.2178-6/11891345_1181178455231619_1911494679_n.jpg) 
 [Design Guidelines for Desktop App Ads](https://www.facebook.com/business/ads-guide/app-installs/desktop-app/) 
 
 ---
@@ -112,7 +112,7 @@ To measure installs in the [Facebook Ads Manager](https://www.facebook.com/ads/m
 The Ads Create Wizard will guide you through all necessary steps to create an ad. When changing parameters you will be able to preview the result of each setting, for example how your ad will look like.
 
 
-?[IMAGE](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtp1/t39.2178-6/11057091_893120464081049_587314363_n.png) 
+![IMAGE](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xtp1/t39.2178-6/11057091_893120464081049_587314363_n.png) 
 
 
 
