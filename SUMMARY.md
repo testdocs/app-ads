@@ -6,6 +6,6 @@
 * [Deep Linking](3_deep-linking.md)  
 * [Deep Linking 2](4_deep_linking_DE.md)  
 * [Deep Linking 3](5_deep_linking_html.md)  
-* [Deep Linking CN](6_deep_linking_CN.html)  
-* [Creating Ads CN](7_creating_ads.html)  
+* [Deep Linking CN](6_deep_linking_CN.md)  
+* [Creating Ads CN](7_creating_ads.md)  
 
