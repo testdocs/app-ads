@@ -1,6 +1,7 @@
 #Facebook SDK for App Ads
  
 [Create Ad](https://www.facebook.com/ads/create) [Verify Your App Ads Setup](/tools/app-ads-helper/) 
+
 ---
 
 
@@ -162,4 +163,5 @@ Once you completed the step-by-step guide and use your app tracking will start. 
 ##Next Steps {#next}
 
 [Enable Deep Linking in your App](/docs/app-ads/deep-linking) [Create Ad](https://www.facebook.com/ads/create/?objective=MOBILE_APP_INSTALLS) 
+
 ---
